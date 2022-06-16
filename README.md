@@ -1,6 +1,6 @@
 ## Mes projets
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLogsan&repo=DevLogsan/Atlantik&show_icons=true&theme=radical)](https://github.com/DevLogsan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLogsan&repo=Atlantik&show_icons=true&theme=radical)](https://github.com/DevLogsan/Atlantik)
 
 ## Le plus utilisé
 
