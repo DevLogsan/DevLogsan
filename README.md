@@ -1,7 +1,7 @@
 ## Mes projets
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLogsan&repo=Atlantik&show_icons=true&theme=radical)](https://github.com/DevLogsan/Atlantik)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLogsan&repo=sc-micro&show_icons=true&theme=radical)](https://github.com/DevLogsan/WindowsFormsProjectAtlantik)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DevLogsan&repo=sc-micro&show_icons=true&theme=radical)]([https://github.com/DevLogsan/sc-micro](https://github.com/DevLogsan/sc-micro))
 
 ## Le plus utilisé
 
